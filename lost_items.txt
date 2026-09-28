@@ -1,0 +1,5 @@
+1001|Book|Staitionary |White and red haed |cover |27/04/2026|0
+1002|watch|electronics|blue|library|27/09/2026|1
+1003|bottle|bottles|white|cc3|28/09/2026|0
+1004|lunchbox|lunch|blue|cafeteria|29/09/2026|0
+1005|bottle|bottle|pink|cafeteria|27/09/2026|0
